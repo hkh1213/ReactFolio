@@ -1,10 +1,10 @@
 import emoji from 'react-easy-emoji';
 
 export const greeting = {
-	username: 'Username',
-	title: 'Hello I\'m Username',
+	username: '1학기 포트폴리오',
+	title: 'Hello I\'m 홍기현',
 	subTitle: emoji("subtitle ❤"),
-	role: "Your role",
+	role: "BackEnd Developer",
 	resumeLink: "Your resume link... google drive or something else",
 	// IMPORTANT
 	// If you don't want to show this, change view to false. DO NOT DELETE!
